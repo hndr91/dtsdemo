@@ -1,3 +1,3 @@
 <?php
-echo "Ini adalah print";
+echo "Ini adalah print ini ada di dev";
 ?>
